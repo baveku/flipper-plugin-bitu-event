@@ -10,7 +10,7 @@
 	"keywords": [
 		"flipper-plugin"
 	],
-	"icon": "apps",
+	"icon": "watch-tv",
 	"title": "Bitu Event",
 	"scripts": {
 		"lint": "flipper-pkg lint",
